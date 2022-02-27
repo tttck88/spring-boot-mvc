@@ -11,4 +11,4 @@
     <c:forEach var="item" items="${list}" varStatus="idx">
         ${idx.index}st, Hello! ${item.name} <br/>
     </c:forEach>
-</html>
+</html> 
